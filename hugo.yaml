@@ -1,8 +1,0 @@
-baseURL: 'https://azureorangutan.com/'
-languageCode: en-uk
-title: azureorangutan
-
-module:
-  imports:
-    - path: "github.com/lxndrblz/anatole"
-    - disable: false
