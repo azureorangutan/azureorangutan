@@ -2,17 +2,20 @@ baseURL: https://azureorangutan.com/
 languageCode: en-uk
 title: azureorangutan
 
+summaryLength: 10
+
 module:
   imports:
     - path: github.com/lxndrblz/anatole
 
 params:
   title: Azure Orangutan
-  author: Azure Orangutan
+  author: Galileo Alighieri
   description: > 
     I'm Galileo, a hairy European primate who enjoys designing and discussing games.
     Also a skilled code ape, I like to build software and other stuff.
   profilePicture: pics/azureorangutan_portrait.jpg
+  favicon: favicons/
   socialIcons:
     - icon: fa-brands fa-github
       title: Github
@@ -20,7 +23,7 @@ params:
   postSectionName: blog
   displayMode: dark
   contentratio: 0.7
-  hidesidebar: true
+  reversepagetitle: true
 
 menu:
   main:
@@ -32,7 +35,7 @@ menu:
       identifier: blog
       weight: 200
       url: /blog/
-    - name: Portfolio
-      identifier: portfolio
+    - name: Projects
+      identifier: projects
       weight: 300
       url: /portfolio/
