@@ -3,6 +3,7 @@ languageCode: en-uk
 title: azureorangutan
 
 summaryLength: 10
+enableRobotsTXT: true
 
 module:
   imports:
