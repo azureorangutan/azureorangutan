@@ -4,7 +4,7 @@ portfolioitems:
     portfolioitem:
       - name: Murdham
         link: https://murdham.azureorangutan.com/
-        image: /pics/portfolio/knight_death_devil.jpg
+        image: /pics/portfolio/murdham_memento_mori.jpg
         description: >
           A role-playing game of perilous adventures in a fantasy world, combining the atmosphere of old school British role-playing games with light and streamlined rules.
         tags:
