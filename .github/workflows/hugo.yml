@@ -34,10 +34,6 @@ jobs:
     env:
       HUGO_VERSION: 0.127.0
     steps:
-      - name: Setup ruby
-        uses: ruby/setup-ruby@v1.172.0
-        with:
-          ruby-version: '3.3'
       - name: Install asciidoctor
         run: gem install asciidoctor
       - name: Install Hugo CLI
