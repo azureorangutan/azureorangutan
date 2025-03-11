@@ -11,9 +11,9 @@ module:
 
 params:
   title: Azure Orangutan
-  author: Galileo Alighieri
+  author: Azure Orangutan
   description: > 
-    I'm Galileo, a hairy European primate who enjoys designing and discussing games.
+    I'm a hairy European primate who enjoys designing and discussing games.
     Also a skilled code ape, I like to build software and other stuff.
   profilePicture: pics/azureorangutan_portrait.jpg
   favicon: favicons/
