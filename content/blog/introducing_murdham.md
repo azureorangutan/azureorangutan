@@ -1,5 +1,5 @@
 ---
-author: Galileo Alighieri
+author: Azure Orangutan
 title: Introducing Murdham
 date: 2024-10-13
 description: Introducing Murdham
